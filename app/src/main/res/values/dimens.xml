@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titleSize">20sp</dimen>
+    <dimen name="longTextSize">16sp</dimen>
+    <dimen name="longTextHeight">24dp</dimen>
+    <dimen name="imageLayWidth">128dp</dimen>
+    <dimen name="imageLayHeight">0dp</dimen>
+    <dimen name="imageLayBottomMargin">12dp</dimen>
+    <dimen name="textViewBottomMargin">24dp</dimen>
+    <dimen name="padding">24dp</dimen>
+</resources>
