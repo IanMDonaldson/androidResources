@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void onLessonLearntClicked(View view) {
-        String congratsMessage = getString(R.string.congrats_text);
+        String congratsMessage = getResources().getString(R.string.congrats_text);
         Snackbar snackbar = Snackbar.make(rootLayout, congratsMessage, Snackbar.LENGTH_LONG);
         snackbar.show();
     }
